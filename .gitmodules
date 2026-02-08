@@ -1,0 +1,198 @@
+[submodule "3d-stream-radio_git"]
+	path = 3d-stream-radio_git
+	url = https://github.com/Grocel/3D-Stream-Radio
+[submodule "armored-combat-extended_git"]
+	path = armored-combat-extended_git
+	url = https://github.com/ACE-Project-Team/ArmoredCombatExtended
+[submodule "cfc_chip-lister_git"]
+	path = cfc_chip-lister_git
+	url = https://github.com/CFC-Servers/cfc_chip_lister
+[submodule "cfc_spawn-protection_git"]
+	path = cfc_spawn-protection_git
+	url = https://github.com/CFC-Servers/cfc_spawn_protection
+[submodule "clegs_git"]
+	path = clegs_git
+	url = https://github.com/chiraqoRP/CLegs
+[submodule "csteps_git"]
+	path = csteps_git
+	url = https://github.com/chiraqoRP/CSteps
+[submodule "cslide_git"]
+	path = cslide_git
+	url = https://github.com/chiraqoRP/CSlide
+[submodule "crouch-stamina_git"]
+	path = crouch-stamina_git
+	url = https://github.com/chiraqoRP/Crouch-Stamina
+[submodule "cthirdperson_git"]
+	path = cthirdperson_git
+	url = https://github.com/Flarky55/CThirdPerson
+[submodule "lib_clib_git"]
+	path = lib_clib_git
+	url = https://github.com/chiraqoRP/CLib
+[submodule "custom-chat_git_outdated"]
+	path = custom-chat_git_outdated
+	url = https://github.com/conred-gmod/gmod-custom-chat
+[submodule "custom-loadout_git"]
+	path = custom-loadout_git
+	url = https://github.com/StyledStrike/gmod-custom-loadout
+[submodule "debug_badcoderz_git"]
+	path = debug_badcoderz_git
+	url = https://github.com/ExtReMLapin/BadCoderz
+[submodule "debug_fprofiler_git"]
+	path = debug_fprofiler_git
+	url = https://github.com/FPtje/FProfiler
+[submodule "debug_luadev_git"]
+	path = debug_luadev_git
+	url = https://github.com/Metastruct/luadev
+[submodule "debug_perfutils_git"]
+	path = debug_perfutils_git
+	url = https://github.com/wrefgtzweve/gmod_perfutils
+[submodule "disconnect-pop-effect_git"]
+	path = disconnect-pop-effect_git
+	url = https://github.com/unknown-gd/disconnect-pop-effect/
+[submodule "fpp_git"]
+	path = fpp_git
+	url = https://github.com/FPtje/Falcos-Prop-protection
+[submodule "glide_experiments_git"]
+	path = glide_experiments_git
+	url = https://github.com/StyledStrike/gmod-glide-experiments
+[submodule "glide_git"]
+	path = glide_git
+	url = https://github.com/Flarky55/gmod-glide
+[submodule "glide_gtav-helicopters_git"]
+	path = glide_gtav-helicopters_git
+	url = https://github.com/StyledStrike/gmod-glide-gtav-helicopters
+[submodule "glide_seatbelt_git"]
+	path = glide_seatbelt_git
+	url = https://github.com/Flarky55/glide-seatbelt
+[submodule "lib_cfw_git"]
+	path = lib_cfw_git
+	url = https://github.com/ACF-Team/CFW
+[submodule "lib_niknaks_git"]
+	path = lib_niknaks_git
+	url = https://github.com/Nak2/NikNaks
+[submodule "lib_sfs"]
+	path = lib_sfs
+	url = https://github.com/Srlion/sfs
+[submodule "lib_shook_git"]
+	path = lib_shook_git
+	url = https://github.com/Srlion/Hook-Library
+[submodule "mediaplayer_git"]
+	path = mediaplayer_git
+	url = https://github.com/samuelmaddock/gm-mediaplayer
+[submodule "musical-keyboard_git"]
+	path = musical-keyboard_git
+	url = https://github.com/Flarky55/musical-keyboard
+[submodule "pac3_git"]
+	path = pac3_git
+	url = https://github.com/CapsAdmin/pac3
+[submodule "physcrashguard_git/lua"]
+	path = physcrashguard_git/lua
+	url = https://github.com/noaccessl/gmod-PhysicsCrashGuard
+[submodule "player-status-icons_git"]
+	path = player-status-icons_git
+	url = https://github.com/hoksalot/gm-psi
+[submodule "primitive_git"]
+	path = primitive_git
+	url = https://github.com/shadowscion/Primitive
+[submodule "projectile-flight_git"]
+	path = projectile-flight_git
+	url = https://github.com/unknown-gd/projectile-flight
+[submodule "seat-weaponizer_git"]
+	path = seat-weaponizer_git
+	url = https://github.com/chiraqoRP/Seat-Weaponizer
+[submodule "simple-derma-skin-selector_git"]
+	path = simple-derma-skin-selector_git
+	url = https://github.com/Flarky55/simple-derma-skin-selector
+[submodule "sprops_git"]
+	path = sprops_git
+	url = https://github.com/shadowscion/sprops
+[submodule "starfallex_git"]
+	path = starfallex_git
+	url = https://github.com/thegrb93/StarfallEx
+[submodule "swep_crappy-video-camera_git"]
+	path = swep_crappy-video-camera_git
+	url = https://github.com/teapotsoftware/crappy-video-camera
+[submodule "swep_tacrp_git"]
+	path = swep_tacrp_git
+	url = https://github.com/Flarky55/tacrp
+[submodule "tool_advanced-bonemerge_git"]
+	path = tool_advanced-bonemerge_git
+	url = https://github.com/NO-LOAFING/AdvBonemerge
+[submodule "tool_advdupe2_git"]
+	path = tool_advdupe2_git
+	url = https://github.com/wiremod/advdupe2/
+[submodule "tool_buildbox_git"]
+	path = tool_buildbox_git
+	url = https://github.com/CFC-Servers/buildbox
+[submodule "tool_fin3_git"]
+	path = tool_fin3_git
+	url = https://github.com/CheezusChrust/Fin-3
+[submodule "tool_grule_git"]
+	path = tool_grule_git
+	url = https://github.com/MartyX5555/G-Rule
+[submodule "tool_improved-stacker_git"]
+	path = tool_improved-stacker_git
+	url = https://github.com/Mista-Tea/improved-stacker
+[submodule "tool_improved-weight_git"]
+	path = tool_improved-weight_git
+	url = https://github.com/Mista-Tea/improved-weight
+[submodule "tool_make-spherical_git"]
+	path = tool_make-spherical_git
+	url = https://github.com/daveth/makespherical
+[submodule "tool_multi-parent_git"]
+	path = tool_multi-parent_git
+	url = https://github.com/ACF-Team/multi-parent
+[submodule "tool_precision-alignment_git"]
+	path = tool_precision-alignment_git
+	url = https://github.com/ACF-Team/precision-alignment/
+[submodule "tool_prop2mesh_git"]
+	path = tool_prop2mesh_git
+	url = https://github.com/shadowscion/Prop2Mesh/commits/master/
+[submodule "tool_ragdoll-mover_git"]
+	path = tool_ragdoll-mover_git
+	url = https://github.com/Winded/RagdollMover
+[submodule "tool_standing-pose_git"]
+	path = tool_standing-pose_git
+	url = https://github.com/Winded/StandingPoseTool
+[submodule "tool_tank-track_git"]
+	path = tool_tank-track_git
+	url = https://github.com/shadowscion/TankTrackTool
+[submodule "tool_tilebuild_git"]
+	path = tool_tilebuild_git
+	url = https://github.com/CFC-Servers/tilebuild
+[submodule "unknown-taunts_git"]
+	path = unknown-taunts_git
+	url = https://github.com/unknown-gd/unknown-taunts
+[submodule "wire_git"]
+	path = wire_git
+	url = https://github.com/wiremod/wire
+[submodule "core_extensions"]
+	path = core_extensions
+	url = https://github.com/Flarky55/gmod-extensions
+[submodule "core_lzwd"]
+	path = core_lzwd
+	url = https://github.com/Flarky55/gmod-lzwd
+[submodule "lib_gshader_git"]
+	path = lib_gshader_git
+	url = https://github.com/Akabenko/GShader-library/
+[submodule "tool_proxy-color_git"]
+	path = tool_proxy-color_git
+	url = https://github.com/NotAKidoS/Proxy-Color-Tool
+[submodule "swep_tacrp_iron-curtain"]
+	path = swep_tacrp_iron-curtain_git
+	url = https://github.com/TacRP-EX-Creators-Club/tacrp-ak
+[submodule "outfitter_git"]
+	path = outfitter_git
+	url = https://github.com/Metastruct/outfitter
+[submodule "tool_material-editor_git"]
+	path = tool_material-editor_git
+	url = https://github.com/CFC-Servers/material-editor-tool
+[submodule "lscs_git"]
+	path = lscs_git
+	url = https://github.com/Flarky55/lscs_public
+[submodule "core"]
+	path = core
+	url = https://github.com/Flarky55/gmod-core
+[submodule "paperwork"]
+	path = paperwork
+	url = https://github.com/Flarky55/gmod-paperwork
