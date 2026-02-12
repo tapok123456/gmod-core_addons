@@ -29,7 +29,7 @@
 	path = lib_clib_git
 	url = https://github.com/chiraqoRP/CLib
 [submodule "custom-chat_git_outdated"]
-	path = custom-chat_git_outdated
+	path = custom-chat_git
 	url = https://github.com/Flarky55/gmod-custom-chat
 [submodule "custom-loadout_git"]
 	path = custom-loadout_git
