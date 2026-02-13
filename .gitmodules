@@ -78,7 +78,7 @@
 	url = https://github.com/Srlion/Hook-Library
 [submodule "mediaplayer_git"]
 	path = mediaplayer_git
-	url = https://github.com/samuelmaddock/gm-mediaplayer
+	url = https://github.com/PurrCoding/gm-mediaplayer
 [submodule "musical-keyboard_git"]
 	path = musical-keyboard_git
 	url = https://github.com/Flarky55/musical-keyboard
@@ -196,3 +196,6 @@
 [submodule "paperwork"]
 	path = paperwork_git
 	url = https://github.com/Flarky55/gmod-paperwork
+[submodule "tool_precision"]
+	path = tool_precision_git
+	url = https://github.com/generalwrex/precision-tool
