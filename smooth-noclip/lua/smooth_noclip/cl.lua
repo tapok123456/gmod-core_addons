@@ -7,7 +7,7 @@ local LocalPlayer, IsValid = LocalPlayer, IsValid
 local MOVETYPE_NOCLIP, IN_JUMP, IN_DUCK, IN_FORWARD, IN_BACK, IN_MOVERIGHT, IN_MOVELEFT = MOVETYPE_NOCLIP, IN_JUMP, IN_DUCK, IN_FORWARD, IN_BACK, IN_MOVERIGHT, IN_MOVELEFT
 
 local enable = CreateConVar("smooth_noclip", "1", FCVAR_USERINFO)
-local smooth_noclip_crouch_default = CreateConVar("smooth_noclip_crouch_default", "0", FCVAR_ARCHIVE)
+local smooth_noclip_crouch_default = CreateConVar("smooth_noclip_crouch_default", "1", FCVAR_ARCHIVE)
 
 hook.Add("CreateMove", "SmoothNoclip", function(cmd)
 	if GetBool(enable) == false then return end
