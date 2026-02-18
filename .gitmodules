@@ -90,7 +90,7 @@
 	url = https://github.com/noaccessl/gmod-PhysicsCrashGuard
 [submodule "player-status-icons_git"]
 	path = player-status-icons_git
-	url = https://github.com/hoksalot/gm-psi
+	url = https://github.com/Flarky55/gm-psi
 [submodule "primitive_git"]
 	path = primitive_git
 	url = https://github.com/shadowscion/Primitive
