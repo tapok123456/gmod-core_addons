@@ -145,9 +145,6 @@
 [submodule "tool_precision-alignment_git"]
 	path = tool_precision-alignment_git
 	url = https://github.com/ACF-Team/precision-alignment/
-[submodule "tool_prop2mesh_git"]
-	path = tool_prop2mesh_git
-	url = https://github.com/shadowscion/Prop2Mesh/commits/master/
 [submodule "tool_ragdoll-mover_git"]
 	path = tool_ragdoll-mover_git
 	url = https://github.com/Winded/RagdollMover
@@ -202,3 +199,6 @@
 [submodule "tool_constraint-editor_git"]
 	path = tool_constraint-editor_git
 	url = https://github.com/Flarky55/gmod-constraint-editor
+[submodule "tool_prop2mesh_gi"]
+	path = tool_prop2mesh_gi
+	url = https://github.com/shadowscion/Prop2Mesh.git
